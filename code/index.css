@@ -44,7 +44,7 @@ body {
     background-size: 100% 100%;
     background-repeat: no-repeat;
     overflow: auto;
-    background-color: #d9c8f0;
+    background-color: #62e956;
 }
 
 /* טוען */
@@ -644,7 +644,7 @@ td {
     position: absolute;
     right: -15vw;
     bottom: 0vh;
-    z-index: 10000;
+    z-index: 101;
 }
 
 .introductionText {
@@ -835,7 +835,7 @@ li {
     width: 100vw;
     height: 6rem;
     position: fixed;
-    z-index: 1000;
+    z-index: 100;
     bottom: 0;
     background-color: #d9c8f0;
 }
